@@ -16,3 +16,7 @@ def joke():
 
 def add(a, b):
     return a+b
+
+
+def shout(text):
+    print(text.upper)
