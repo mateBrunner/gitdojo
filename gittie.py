@@ -12,3 +12,7 @@ def joke():
     - Exactly.")
     LOL
     """)
+
+
+def add(a, b):
+    return a+b
